@@ -1,0 +1,32 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.section {
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+    border: 3px solid white;
+    background-color: purple;
+    color: white;
+    border-radius: 10px;
+}
+
+button {
+    background-color: purple;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input {
+    padding: 5px;
+    border-radius: 5px;
+}
